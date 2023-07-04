@@ -1,7 +1,7 @@
 ## Descripción 
 
 Segundo examen de programación web. Actualicé el primer examen para que se pueda acceder desde la API con AJAX y React.
-el primer punto se encuentra dentro de la carpeta SPA y el segundo solo tiene que realizar el npm install y npm start
+el primer punto se encuentra dentro de la carpeta src/SPA y el segundo solo tiene que realizar el npm install y npm start
 
 ## Autor -
 **Godoy Guillermo**
